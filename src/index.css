@@ -6,5 +6,10 @@
 
 :root{
   font-family: "Poppins", sans-serif;
-  color-scheme: dark ;
+  color-scheme: dark;
+}
+
+body {
+  padding-left: 6rem;
+  padding-right: 6rem;
 }
